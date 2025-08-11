@@ -31,15 +31,15 @@
 
 - 功能总览
 
-![功能总览](images/ronin1.png)
+![功能总览](ronin1.png)
 
 - 操作体验
 
-![操作示意](images/ronin2.png)
+![操作示意](ronin2.png)
 
 - 关注免费激活二维码
 
-![激活二维码](images/weixin.png)
+![激活二维码](weixin.png)
 
 ---
 
